@@ -1,0 +1,65 @@
+body {
+    font-family: "Roboto", sans-serif;
+}
+
+.navbar {
+    background-color:RGB(139, 69, 19) ;
+}
+
+#cabecalho .nav .nav-link.active {
+    background-color:white ;
+    color: RGB(139, 69, 19);
+}
+
+#cabecalho .nav .nav-link, .navbar-brand, .navbar-brand:hover {
+    color: white;
+}
+
+.navbar-toggler {
+    background-color: white;
+}
+
+.carousel-item img {
+    height: 760px;
+    width: 100%;
+}
+
+.section-title {
+    font-family: "Pacifico", cursive;
+}
+
+#sobre, #cardapio {
+    background-color:RGB(255, 236, 139);
+}
+
+.text-color {
+    color:RGB(139, 69, 19);
+}
+
+.nav-cardapio .nav-link.active, #contato button {
+    background-color: RGB(139, 69, 19);
+    color: white;
+} 
+
+.nav-cardapio .nav-link:hover {
+    color: RGB(139, 69, 19);
+}
+
+.nav-cardapio .nav-link.active:hover {
+    color: white;
+}
+
+.social-links li {
+    list-style: none;
+    display: inline;
+}
+
+.social-links a {
+    text-decoration: none;
+}
+
+@media screen and (max-width: 767px) {
+    .carousel-item img {
+        height: 280px;
+    }
+}
