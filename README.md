@@ -67,7 +67,7 @@ fictício chamado Al Khubz, com foco em gastronomia exótica e mediterrânea. Es
   Cada prato é exibido com imagem, título e descrição detalhada.
 
 ## Licença
-Este projeto é para uso educacional e demonstrativo.
+MIT.
 
 ## Link para o Projeto
 
