@@ -3,6 +3,8 @@
 Bem-vindo ao projeto **Al Khubz**, um site de apresentação para o restaurante 
 fictício chamado Al Khubz, com foco em gastronomia exótica e mediterrânea. Este projeto utiliza tecnologias modernas para criar uma experiência responsiva e interativa para os usuários.
 
+---
+
 ## Tecnologias Utilizadas
 - **HTML5** e **CSS3**
 - **Bootstrap** 5 para estilização e componentes responsivos
@@ -10,6 +12,8 @@ fictício chamado Al Khubz, com foco em gastronomia exótica e mediterrânea. Es
 - **Bootstrap Icons** para ícones
 - **JavaScript** para funcionalidades interativas
 - **jQuery** e plugins como `jquery.mask` e `jquery.validate` para manipulação e validação de formulários
+
+---
 
 ## Funcionalidades
 1. **Navegação Responsiva:** Menu de navegação adaptável para diferentes dispositivos.
@@ -21,11 +25,15 @@ fictício chamado Al Khubz, com foco em gastronomia exótica e mediterrânea. Es
 3. **Destaque do Cardápio:** Tabulação que organiza o cardápio em categorias (Shawarmas, Esfihas, etc.).
 4. **Descrição Detalhada:** Apresentação detalhada de pratos, incluindo imagens e descrições atraentes.
 
+---
+
 ## Estrutura do Projeto
 - **Cabeçalho:** Contém a barra de navegação com links para as seções principais.
 - **Menu Lateral:** Navegação específica para o cardápio.
 - **Conteúdo Principal:** Apresentação dinâmica dos itens do cardápio.
 - **Scripts:** Interatividade e funcionalidades como máscaras e validações para formulários.
+
+---
 
 ## Como Rodar o Projeto
 1. Clone este repositório:
@@ -56,6 +64,8 @@ fictício chamado Al Khubz, com foco em gastronomia exótica e mediterrânea. Es
   <script src="./main.js"></script>
   ```
 
+---
+
 ### Estrutura da Página
 - **Cabeçalho Navegacional:**
   Contém links com ícones e classes do Bootstrap para navegação fluida.
@@ -66,8 +76,12 @@ fictício chamado Al Khubz, com foco em gastronomia exótica e mediterrânea. Es
 - **Itens do Cardápio:**
   Cada prato é exibido com imagem, título e descrição detalhada.
 
+---
+
 ## Licença
 MIT.
+
+---
 
 ## Link para o Projeto
 
